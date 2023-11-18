@@ -1,7 +1,7 @@
 from pyrogram.types import InlineKeyboardButton
 
 import config
-from ALEXAMUSiC import app
+from ALEXMUSiC import app
 
 
 def start_panel(_):
