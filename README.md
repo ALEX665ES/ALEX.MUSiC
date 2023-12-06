@@ -101,16 +101,3 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 
- shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
- </p> 
-  - <p align="center"> 
-  <img src="https://telegra.ph/file/2fcd27c7ee0c4cf0f2be9.jpg"> 
- </p> 
-    <h3 align="center"> 
-   ─「 Cʀᴇᴅɪᴛs 」─ 
- </h3> 
-
- - <b>[Dᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/DEVIL_IZ_BACK)  ➻  [Sᴏᴍᴇᴛʜɪɴɢ](https://github.com/ALEX665ES/ALEXMUSIC) </b>
-
-
-━━━━━━━━━━━━━━━━━━━━
